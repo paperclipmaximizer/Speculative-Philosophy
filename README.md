@@ -1,7 +1,9 @@
 # Speculative-Philosophy
-A curated list of books within the (mainly continental) tradition of speculative philosophy. The selection is designed to appeal to any experience level, but has been designed to appeal to an analytic-minded reader. 
-
+_Not to be confused with Speculative Realism!_
+A curated list of books within the (mainly continental) tradition of speculative philosophy. The selection is designed to appeal all experience levels. 
+<!--
 Why suggest a Speculative Philosophy reading list specifically aimed at a Comp-Sci readership? The reason has a lot to do with game theory (GT). [sketch] GT concerns, ... , ending in a contingency view for GT orientations. Then I think I would suggest further reading as something like Girardi, or something on Linear Logic. The point is to (in reverse order) (3) supplant the game-theoretic assumptions that it assumes from classical economics, (2) build a contingency view of subjectivity to replace (what is at its heart) a kind of sober objectivism of GT, 
+-->
 ____
 ## Contents
 ## Introductory Texts
