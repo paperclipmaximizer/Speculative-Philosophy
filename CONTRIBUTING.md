@@ -1,0 +1,1 @@
+create a PR or raise an issue, the text or resource doesn't have to strictly fall within the field of speculative philosophy, it can be related to continental philosophy if it provides some specific value to speculative philosophy (think someone like Simmel)
