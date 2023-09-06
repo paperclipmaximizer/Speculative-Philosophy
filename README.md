@@ -1,5 +1,7 @@
 # Speculative-Philosophy
 A curated list of books within the (mainly continental) tradition of speculative philosophy. The selection is designed to appeal all experience levels. _Not to be confused with Speculative Realism!_
+
+Why read "speculative philosophy"? 
 <!--
 Why suggest a Speculative Philosophy reading list specifically aimed at a Comp-Sci readership? The reason has a lot to do with game theory (GT). [sketch] GT concerns, ... , ending in a contingency view for GT orientations. Then I think I would suggest further reading as something like Girardi, or something on Linear Logic. The point is to (in reverse order) (3) supplant the game-theoretic assumptions that it assumes from classical economics, (2) build a contingency view of subjectivity to replace (what is at its heart) a kind of sober objectivism of GT, 
 -->
@@ -10,13 +12,14 @@ _Start here if you're new to philosophy_
 - Hegel in a Wired Brain
 _this text serves as an excellent introduction to Hegelianism, it is fundamentally a re-presentation of the phenomenology, set in the epistemo-cosmology of computers and the culture there-in. Importantly, it is accessible_.
 (The only concern I have of suggesting this first is that it may be too accessible, given the difficulty of most other things on this list).
-- 
+-
+<--
 #### Supplemental Introductory texts
 - Philosophy in Germany 1831-1933 - Schnädelbach
 - A short history of ethics - MacIntyre
 _Anyone reading continental philosophy at UG level should have a copy of this book!_
 - Dialectic of Enlightenment - Adorno & Horkheimer 
-
+-->
 ## Core
 ### Hegel
  - On Christianity: Early Theological Writings - Hegel [Optional]
@@ -29,11 +32,11 @@ _Anyone reading continental philosophy at UG level should have a copy of this bo
 _One of these should be read alongside the Phenomenology_
  - Hegel's Ladder - H S Harris
  - 
-
+<--
 ### Marx
  - 1844 Manuscripts _good as introduction to humanism_
  - Gundrisse 
-
+-->
 ##### Supplements
  - Capital -(not advised without extremely careful presentation)
 
@@ -90,4 +93,5 @@ Launch point for an argument about the functional sufficiency in its model of hu
 ** Hegel Contra Sociology
 *** Actuality of Philosophy
 *** 
+@endmindmap
 ```
