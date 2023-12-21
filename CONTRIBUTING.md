@@ -4,3 +4,6 @@ The texts should be separated on a tripartite basis, consisting of Primary (or h
 Primary texts are those recognised as contributing a original speculative philosophy.
 Secondary are those that involve no original insights but are nonetheless of high quality or any sort of dualist ontologies that aid in transitional readings.
 Tertiary is reserved for things like Stanford encyclopedia entries, audio lectures, interviews, blog posts etc.
+
+To build the project locally create a python3 virtual environment and install the requisite packages in requirements.txt
+
